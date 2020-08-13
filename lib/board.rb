@@ -1,1 +1,1 @@
-# Define the variable board belo
+# Define the variable board below
